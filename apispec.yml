@@ -21,9 +21,9 @@ paths:
         - Translate
       summary: Requesting for translated text
       description: Request for text
-      operationId: updatePet
+      operationId: request translated text
       requestBody:
-        description: Update an existent pet in the store
+
         content:
           application/json:
             schema:
